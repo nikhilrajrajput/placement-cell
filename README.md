@@ -1,5 +1,5 @@
 # Placement Cell
-A nodejs web app to manage students and their placements and download interview reports.
+This is web page application where we can show the staus of the interview result and show the details of the student who is placed or not placed. 
 
 # Steps to load project
 
@@ -9,4 +9,7 @@ Project Usage:
 3. To start project --- npm start
 4. Project will now be running on port 5000.
 
-Note: To register, register with aurora.com domain, for  example - example@aurora.com, it won't require email authentication.
+# Note
+Register your account with example@employee.com
+
+
