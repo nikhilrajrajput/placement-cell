@@ -12,7 +12,7 @@ Project Usage:
 # Note
 Register your account with example@employee.com
 
-# Deploy Link
+# Live link
 https://placement-cell-nikhil.onrender.com/employee/login
 
 # Screenshot
