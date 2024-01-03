@@ -1,5 +1,6 @@
 const express = require('express');
 const db = require('./config/mongoose');
+const dotenv = require('dotenv');
 const session = require('express-session');
 const MongoStore = require('connect-mongo')(session);
 const passport = require('passport');
@@ -10,7 +11,7 @@ const flash = require('connect-flash');
 const flashMiddleware = require('./config/flash-middleware');
 
 const app = express();
-const port = 5000;
+const port = process.env.PORT || 5000;
 
 app.use(expressLayouts);
 app.use(sassMiddleware({
