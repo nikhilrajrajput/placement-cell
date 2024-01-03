@@ -12,6 +12,9 @@ Project Usage:
 # Note
 Register your account with example@employee.com
 
+# Deploy Link
+https://placement-cell-nikhil.onrender.com/employee/login
+
 # Screenshot
 ![image](https://github.com/nikhilrajrajput/placement-cell/assets/96713971/e68c8b17-d144-43f1-ba79-540a78734636)
 
@@ -20,8 +23,6 @@ Register your account with example@employee.com
 ![image](https://github.com/nikhilrajrajput/placement-cell/assets/96713971/5d374ec6-5e0b-4d07-9815-478ab1845aea)
 ![image](https://github.com/nikhilrajrajput/placement-cell/assets/96713971/864054f9-229b-42f1-8ce3-684162035ec8)
 
-# Deploy Link
-https://placement-cell-nikhil.onrender.com/employee/login
 
 
 
